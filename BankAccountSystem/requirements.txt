@@ -1,0 +1,14 @@
+### **`BankAccountSystem/requirements.txt`**
+
+<details>
+<summary><code>BankAccountSystem/requirements.txt</code></summary>
+
+BankAccountSystem requirements
+1) C++17 or higher
+e.g. g++ 7.0+, clang++ 5.0+, or Visual Studio with C++17 support
+2) Operating system
+Linux, macOS, or Windows
+No external libraries beyond the C++ standard library are required.
+</details>
+
+---

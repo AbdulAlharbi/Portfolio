@@ -1,0 +1,15 @@
+### **`TicTacToePython/requirements.txt`**
+
+<details>
+<summary><code>TicTacToePython/requirements.txt</code></summary>
+
+TicTacToePython requirements
+1) Python 3.7+
+2) Tkinter library
+On Linux, you may need to install python3-tk.
+On Windows/macOS, Tkinter is typically included.
+No external pip libraries required (only standard library + Tkinter).
+
+</details>
+
+---

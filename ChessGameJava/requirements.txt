@@ -1,0 +1,15 @@
+### **`ChessGameJava/requirements.txt`**
+
+<details>
+<summary><code>ChessGameJava/requirements.txt</code></summary>
+
+ChessGameJava requirements
+1) Java 8 (JDK 1.8) or higher
+2) Standard Java Swing (part of Java SE)
+Example commands:
+javac ChessGame.java
+java ChessGame
+markdown
+</details>
+
+---

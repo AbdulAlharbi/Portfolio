@@ -1,0 +1,15 @@
+### **`StacksOverflowAsm/requirements.txt`**
+
+<details>
+<summary><code>StacksOverflowAsm/requirements.txt</code></summary>
+
+StacksOverflowAsm requirements
+1) NASM assembler (2.13+)
+2) ld linker (GNU binutils)
+3) A Linux environment (for syscalls)
+Example usage:
+nasm -f elf64 stacks_overflow.asm -o stacks_overflow.o
+ld stacks_overflow.o -o stacks_overflow
+</details>
+
+---
