@@ -18,6 +18,10 @@ Welcome to my multi-project repository! Here you'll find four distinct projects 
    A Swing-based GUI chess game with a simplified AI opponent. Demonstrates object-oriented design, game rules, and a basic AI approach.  
    - [ChessGameJava/](ChessGameJava)
 
+5. **Pomodoro_Timer** (`html, css, js`)  
+   A fully featured Pomodoro Timer page designed to help students and tutors stay productive and on-task. Perfect as a stand-alone tool or integrated into LessonConnect’s broader platform, CS472 Spring 25' 2025. 
+   - [Pomodoro_Timer/](Pomodoro_Timer)
+
 ---
 
 ## Repository Contents
