@@ -34,6 +34,9 @@ Welcome to my multi-project repository! Here you'll find four distinct projects 
 - **ChessGameJava/**  
   Contains the Java `.java` file(s), a `README.md` with instructions, and a `requirements.txt` specifying the minimum JDK version.
 
+- **Pomodoro_Timer/**  
+  Contains the html and css `.html` and `.css` file(s), a `README.md` with instructions.
+
 ## Quick Start
 
 - **Clone** this repo:  
